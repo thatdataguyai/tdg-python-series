@@ -7,6 +7,8 @@ The aim of this repository is for you take what you learn from Week 4: Data Engi
 Installation Guide - [Git - Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 GIT Cheat Sheet - [(1) Git Cheat Sheet Explained - by Chajo - Daily DevOps](https://chajo.substack.com/p/git-cheat-sheet)
 
+If you don't want to use GIt locally, you can open a codespace within GitHub that allows you to use a web version of VSCode. Simply click the green "<> Code" button and creat a codespace.
+
 # Any Issues
 
 If you have any issues please reach out to me via Substack or email and I'll get back to you as soon as possible:
